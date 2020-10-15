@@ -1,0 +1,361 @@
+#logo {
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+    font-size: 50px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+#tagline {
+    text-align: center;
+    border-bottom: solid teal;
+    border-width: 2.5px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    padding-bottom: 25px;
+    margin-bottom: 0;
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+}
+
+.nav-item {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.navbar .navbar-nav .nav-item:hover {
+    color: teal;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 75px;
+}
+
+#home-section {
+    background-image: url(Images/tailor_image2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 155px;
+    padding-bottom: 155px;
+    height: 100vh;
+}
+
+#home-text {
+    font-family: 'DM Serif Display', serif;
+    font-size: 75px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#about-section {
+    height: 100vh;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+
+.about-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: left;
+}
+
+#tailor-image {
+    background-image: url(Images/tailor_image3.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 155px;
+    padding-bottom: 155px;
+    height: 100vh;
+}
+
+#tailor-image-text {
+    font-family: 'DM Serif Display', serif;
+    font-size: 75px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#services-section {
+    height: 100vh;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+
+#services-section p {
+    margin-top: 25px;
+    margin-bottom: 50px;
+    font-family: font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+#clients-section {
+    margin-top: 75px;
+    margin-bottom: 50px;
+}
+
+#clients-1{
+    width: 200px;
+    height: 200px;
+    background-image: url(Clients\ Logos/tmlewin.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#clients-2{
+    width: 200px;
+    height: 200px;
+    background-image: url(Clients\ Logos/asos.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#clients-3{
+     width: 200px;
+    height: 200px;
+    background-image: url(Clients\ Logos/topman.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#clients-4{
+    width: 200px;
+   height: 200px;
+   background-image: url(Clients\ Logos/boohoo.jpg);
+   background-position: center;
+   background-size: cover;
+}
+
+#clients-5{
+    width: 200px;
+   height: 200px;
+   background-image: url(Clients\ Logos/burton.jpg);
+   background-position: center;
+   background-size: cover;
+}
+
+#clients-6{
+    width: 200px;
+   height: 200px;
+   background-image: url(Clients\ Logos/matalan.jpg);
+   background-position: center;
+   background-size: cover;
+}
+
+#clients-7{
+    width: 200px;
+   height: 200px;
+   background-image: url(Clients\ Logos/masterdebon.jpg);
+   background-position: center;
+   background-size: cover;
+}
+
+#clients-8{
+    width: 200px;
+   height: 200px;
+   background-image: url(Clients\ Logos/joebrowns.jpg);
+   background-position: center;
+   background-size: cover;
+}
+
+#clients-9{
+    width: 200px;
+   height: 200px;
+   background-image: url(Clients\ Logos/mands.jpg);
+   background-position: center;
+   background-size: cover;
+}
+
+#gallery-title-div {
+    padding-top: 150px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    height: 100vh;
+    background-color: teal;
+}
+
+#gallery-title {
+    font-family: 'DM Serif Display', serif;
+    font-size: 75px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#gallery-title-description {
+    padding-top: 150px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: whitesmoke;
+
+}
+
+#gallery-icon {
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+.gallery{
+    margin-top: 50px;
+}
+
+.gallery2{
+    margin-top: 0;
+}
+
+#hb1 {
+    height: 300px;
+    background-image: url(Harry\ Brown/hb1.jpg);
+    background-position: center;
+    background-size: cover;
+    transition: all 1s ease-out;
+}
+
+#hb2{
+    height: 300px;
+    background-image: url(Harry\ Brown/hb2.jpg);
+    background-position: center;
+    background-size: cover;
+    transition: all 1s ease-out;
+}
+
+#hb3{
+    height: 300px;
+    background-image: url(Harry\ Brown/hb3.jpg);
+    background-position: center;
+    background-size: cover;
+    transition: all 1s ease-out;
+}
+
+#hb4{
+    height: 300px;
+    background-image: url(Harry\ Brown/hb4.jpg);
+    background-position: center;
+    background-size: cover;
+    transition: all 1s ease-out;
+}
+
+#hb5{
+    height: 300px;
+    background-image: url(Harry\ Brown/hb5.jpg);
+    background-position: center;
+    background-size: cover;
+    transition: all 1s ease-out;
+}
+
+#hb6{
+    height: 300px;
+    background-image: url(Harry\ Brown/hb6.jpg);
+    background-position: center;
+    background-size: cover;
+    transition: all 1s ease-out;
+}
+
+#hb7{
+    height: 300px;
+    background-image: url(Harry\ Brown/hb7.jpg);
+    background-position: center;
+    background-size: cover;
+    transition: all 1s ease-out;
+}
+
+#hb8{
+height: 300px;
+background-image: url(Harry\ Brown/hb8.jpg);
+background-position: center;
+background-size: cover;
+transition: all 1s ease-out;
+}
+
+.hb-gallery:hover{
+    opacity: 75%;
+}
+
+#contact-section {
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+
+#contact-form {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-bottom: 100px;
+}
+
+.send-button {
+    background-color: teal;
+    color: whitesmoke;
+}
+
+#address-column {
+    margin-bottom: 50px;
+}
+
+.address {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+#fb-square {
+    margin-right: 20px;
+    transition: all 0.5s ease-out;
+}
+
+#fb-square:hover {
+    color: black;
+}
+
+#ig-square {
+    transition: all 0.5s ease-out;
+}
+
+#ig-square:hover {
+    color: black;
+}
+
+i {
+    color: teal;
+}
+
+#back-to-portfolio-text {
+    color: #9932CC;
+    position: fixed;
+    left: 5%;
+    top: 5%;
+    z-index: 10;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#map {
+    width: 100%;
+    height: 575px;
+}
+
+.row {
+    margin-top: 100px;
+}
+
+#back-to-top {
+    display: none;
+    position: fixed;
+    right: 5%;
+    top: 75%;
+    z-index: 10;
+    opacity: 50%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.visuallyHidden {
+    opacity: 0;
+}
